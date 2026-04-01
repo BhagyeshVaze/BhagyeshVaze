@@ -39,3 +39,4 @@ MS in Bioinformatics (Data Science Concentration) at Northeastern University (GP
 - Pharmacy background → Bioinformatics grad — I understand the biology behind the data, not just the numbers
 - Enjoy working on problems where statistics and genomics collide — GWAS, survival analysis, clinical trial design
 - Google Advanced Data Analytics Professional Certificate (2025)
+
