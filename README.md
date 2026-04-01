@@ -34,7 +34,6 @@
 
 ### A Bit More
 
-- Currently a Biostatistics Analyst Co-op at **Icahn School of Medicine at Mount Sinai**, analyzing 330K+ metastatic cancer records from the *All of Us* research program
 - Pharmacy background → Bioinformatics grad — I understand the biology behind the data, not just the numbers
 - Enjoy working on problems where statistics and genomics collide — GWAS, survival analysis, clinical trial design
 - Google Advanced Data Analytics Professional Certificate (2025)
