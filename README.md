@@ -2,7 +2,7 @@
 
 ### Bioinformatics Analyst | Data Scientist
 
-MS Bioinformatics Graduate (Data Science Concentration) from Northeastern University (GPA 3.9/4.0), with experience in clinical data pipelines, genomic analysis, and machine learning.
+ MS Bioinformatics Graduate (Data Science Concentration) from Northeastern University (GPA 3.9/4.0), with experience in clinical data pipelines, genomic analysis, and machine learning.
 ---
 
 ### What I Work On
