@@ -2,8 +2,7 @@
 
 ### Bioinformatics Analyst | Data Scientist
 
-MS in Bioinformatics (Data Science Concentration) at Northeastern University (GPA 3.9/4.0). I work at the intersection of biology and data — building pipelines, running statistical analyses, and applying machine learning to clinical and genomic datasets.
-
+MS Bioinformatics Graduate (Data Science Concentration) from Northeastern University (GPA 3.9/4.0), with experience in clinical data pipelines, genomic analysis, and machine learning.
 ---
 
 ### What I Work On
@@ -20,7 +19,7 @@ MS in Bioinformatics (Data Science Concentration) at Northeastern University (GP
 
 [![My Skills](https://skillicons.dev/icons?i=py,r,pytorch,docker,linux,bash,aws,gcp,github,anaconda)](https://skillicons.dev)
 
-**Languages & Libraries:** Python, R, SQL, SAS, STATA, NumPy, Pandas, Scikit-learn, PyTorch, PySpark  
+**Languages & Libraries:** Python, R, SQL, SAS, STATA, NumPy, Pandas, Scikit-learn, PyTorch, PySpark
 **Tools:** BigQuery, Tableau, Looker, Power BI, REDCap, Docker, Hadoop, Git  
 **Clinical & Research:** CDISC, SDTM, ADaM, ICD-10, EHR, ETL, IRB, ICH-GCP  
 
