@@ -17,7 +17,7 @@ MS Bioinformatics Graduate (Data Science Concentration) from Northeastern Univer
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,pytorch,docker,linux,bash,aws,gcp,github,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,sql,pytorch,docker,linux,bash,aws,gcp,github,anaconda,slack)](https://skillicons.dev)
 
 **Languages & Libraries:** Python, R, SQL, SAS, STATA, NumPy, Pandas, Scikit-learn, PyTorch, PySpark
 **Tools:** BigQuery, Tableau, Looker, Power BI, REDCap, Docker, Hadoop, Git  
